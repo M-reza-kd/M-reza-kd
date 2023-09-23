@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mohammad reza ketabi
-- 👀 I’m interested in Solving algorithmic problems,work whit data ans software development
+- 👀 I’m interested in Solving algorithmic problems,work with data and software development
 - 🌱 I’m currently learning Django and go
 - 💞️ I’m looking to collaborate on developing software 
 - 📫 How to reach me: Rezakd1831@gmail.com
